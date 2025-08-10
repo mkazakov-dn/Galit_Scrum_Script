@@ -1,0 +1,4 @@
+flask>=2.0.0
+netmiko>=4.0.0
+paramiko>=2.7.0
+scp>=0.14.0 
